@@ -4,4 +4,5 @@ Two-stage building damage assessment network based on remote sensing images
 
 Hybrid UNet: A one-stage building damage assessment network based on post disaster remote sensing images
 
-<img width="325" alt="image" src="https://github.com/nanmukeqi/Building-Damage-Assessment/assets/164450568/ad3c8e55-ba4a-40a8-92e9-6957b229ad17">
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/afef2313-aa53-4429-824f-a14b557efc9c">
+
